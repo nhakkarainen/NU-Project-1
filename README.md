@@ -22,7 +22,7 @@ We are interested in analyzing the correlation between environmental complaints 
 1. Chicago Data Portal: Environmental Complaints: provides types and details of 1,262 environmental complaints during CY2010 by street address.
 2. Chicago Data Portal: Socioeconomic indicators of public health -  provides poverty, unemployment, and income demographics by neighborhood from years 2008-2012
 3. CMAP 2010 Census Data Summarized to Chicago Community Area - provides race, gender, housing demographics by neighborhood
-*Use Google Places API(?) to merge datasets so that we can connect street address with neighborhood in Chicago - Possible Chicago neighborhood mapper
+<br> *Use Google Places API(?) to merge datasets so that we can connect street address with neighborhood in Chicago - Possible Chicago neighborhood mapper
 
 ## Rough breakdown of tasks: 
 ### Ankita & Fatima
