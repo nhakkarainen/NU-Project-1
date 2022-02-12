@@ -131,3 +131,5 @@ dmypy.json
 # Others
 **/.DS_Store
 
+#API Keys
+config.py
