@@ -19,6 +19,6 @@ We are interested in exploring whether there is a correlation between the number
 3. Did the number of air pollution complaints vary by the presence of minority communities?
 
 **Datasets:**
-1. Chicago Data Portal: Environmental Complaints: provides types and details of air pollution complaints during CY2010 by street address.
+1. Chicago Data Portal - Environmental Complaints: provides types and details of air pollution complaints during CY2010 by street address.
 2. Chicago Data Portal - Socioeconomic Indicators of Public Health:  provides poverty, unemployment, and income demographics by neighborhood from years 2008-2012.
-3. CMAP 2010 Census Data Summarized to Chicago Community Area: provides race, gender, housing demographics by neighborhood.
+3. CMAP 2010 Census Data - Summarized to Chicago Community Area: provides race, gender, housing demographics by neighborhood.
