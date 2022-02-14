@@ -11,7 +11,7 @@
 * Nicole Hakkarainen
 
 **Project Description:**
-We are interested in exploring whether there is a correlation between the number of air pollution complaints across neighborhoods in Chicago socioeconomic (i.e., per capita income) and demographic factors (i.e., presence of minority communities). We consult three different datasets to extract environmental complaints during CY2010 and triangulate this information with neighborhood socioeconomic and demographic data from the same time period.
+We are interested in exploring whether there is a correlation between the number of air pollution complaints across neighborhoods in Chicago and socioeconomic (i.e., per capita income) and demographic factors (i.e., presence of minority communities). We consult three different datasets to extract environmental complaints during CY2010 and triangulate this information with neighborhood socioeconomic and demographic data from the same time period.
 
 **Research Questions:**
 1. Which Chicago neighborhoods submitted the highest number of air pollution complaints in 2010?
